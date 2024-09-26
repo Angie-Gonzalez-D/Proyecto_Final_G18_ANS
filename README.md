@@ -7,7 +7,7 @@ Este repositorio contiene el proyecto final de la materia "Aprendizaje No Superv
 
 **Resultado:** En esta carpeta se encuentra la base de datos con los clusters identificados para cada uno de los registros. Estos clusters fueron generados tras la selección del mejor modelo aplicado.
 
-**Documento de Entrega:** Esta carpeta contiene los siguientes documentos:
+**Documentos de Entrega:** Esta carpeta contiene los siguientes documentos:
 - Informe preliminar del proyecto final (Entregable 1): En este informe se presenta el contexto del proyecto, la problemática identificada, los hallazgos obtenidos a partir del análisis de datos, la propuesta metodológica para abordar la situación, y una revisión de la literatura relevante sobre problemas similares.
 - Informe final del proyecto (Entregable 2): Este documento detalla el modelo implementado para resolver la problemática, los resultados obtenidos, las recomendaciones derivadas del análisis y las conclusiones finales que surgen del desarrollo de la metodología aplicada.
 - Presentación en PowerPoint: Una presentación gráfica que resume el desarrollo del proyecto final, destacando los puntos clave y visualizando los principales resultados y conclusiones.
