@@ -12,6 +12,4 @@ Este repositorio contiene el proyecto final de la materia "Aprendizaje No Superv
 - Informe final del proyecto (Entregable 2): Este documento detalla el modelo implementado para resolver la problemática, los resultados obtenidos, las recomendaciones derivadas del análisis y las conclusiones finales que surgen del desarrollo de la metodología aplicada.
 - Presentación en PowerPoint: Una presentación gráfica que resume el desarrollo del proyecto final, destacando los puntos clave y visualizando los principales resultados y conclusiones.
 
-**Video**: En esta carpeta se encuentra el video en el que los integrantes del equipo presentan el desarrollo del proyecto final, destacando los aspectos clave del análisis, la metodología aplicada y los resultados obtenidos.
-
 Te invitamos a profundizar en el proyecto y explorar las carpetas del repositorio.
